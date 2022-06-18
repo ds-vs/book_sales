@@ -8,6 +8,6 @@ namespace book_sales.Domain.Enum
         
         [Display(Name = "Мягкий переплет")] Softcover = 1,
         
-        [Display(Name = "Суперобложка")] DustJacket = 2,
+        [Display(Name = "Суперобложка")] DustJacket = 2
     }
 }

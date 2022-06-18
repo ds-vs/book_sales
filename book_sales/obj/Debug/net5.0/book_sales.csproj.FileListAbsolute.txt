@@ -38,3 +38,5 @@ C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\obj\Debug\ne
 C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\obj\Debug\net5.0\book_sales.pdb
 C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\obj\Debug\net5.0\book_sales.genruntimeconfig.cache
 C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\obj\Debug\net5.0\book_sales.csproj.CopyComplete
+C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\bin\Debug\net5.0\book_sales.Domain.dll
+C:\Users\vladi\OneDrive\Документы\C#\book_sales\book_sales\bin\Debug\net5.0\book_sales.Domain.pdb

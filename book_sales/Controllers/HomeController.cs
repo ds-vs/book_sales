@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using book_sales.Domain.Entity;
+using book_sales.Domain.Enum;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using book_sales.Models;
@@ -20,7 +22,13 @@ namespace book_sales.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            Book book = new Book()
+            {
+                Id = 2915752,
+                Name = "Магическая битва",
+                TypeCover = TypeCover.DustJacket
+            };
+            return View(book);
         }
 
         public IActionResult Privacy()

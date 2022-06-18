@@ -6,6 +6,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{247F48
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "book_sales.Domain", "book_sales.Domain\book_sales.Domain.csproj", "{07BAB97D-2CB7-4AF1-8A7D-24067D4A2626}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{AED24DAE-90C9-416C-8291-5F0189356374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "book_sales.DAL", "book_sales.DAL\book_sales.DAL.csproj", "{D60382D6-30C8-4AC9-B729-09CB73FCD7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{07BAB97D-2CB7-4AF1-8A7D-24067D4A2626}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BAB97D-2CB7-4AF1-8A7D-24067D4A2626}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BAB97D-2CB7-4AF1-8A7D-24067D4A2626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60382D6-30C8-4AC9-B729-09CB73FCD7B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60382D6-30C8-4AC9-B729-09CB73FCD7B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60382D6-30C8-4AC9-B729-09CB73FCD7B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60382D6-30C8-4AC9-B729-09CB73FCD7B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{07BAB97D-2CB7-4AF1-8A7D-24067D4A2626} = {247F485E-4D33-4238-B230-44BD827526A4}
+		{D60382D6-30C8-4AC9-B729-09CB73FCD7B9} = {AED24DAE-90C9-416C-8291-5F0189356374}
 	EndGlobalSection
 EndGlobal

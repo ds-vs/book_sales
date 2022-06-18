@@ -7,6 +7,30 @@
   <component name="ChangeListManager">
     <list default="true" id="7443c352-2bd8-4c32-8be2-3e6a26f70056" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.book_sales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.book_sales/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales.Domain/Entity/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales.Domain/Entity/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales.Domain/Enum/TypeCover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales.Domain/Enum/TypeCover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales.sln" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.dll" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/bin/Debug/net5.0/book_sales.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/book_sales.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/book_sales.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.dll" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/book_sales.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/book_sales.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_sales/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655539124310</updated>
-      <workItem from="1655539149467" duration="1668000" />
+      <workItem from="1655539149467" duration="2601000" />
     </task>
     <servers />
   </component>
@@ -93,5 +117,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

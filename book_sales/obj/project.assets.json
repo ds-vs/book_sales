@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "book_sales.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/book_sales.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/book_sales.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "book_sales.Domain/1.0.0": {
+      "type": "project",
+      "path": "../book_sales.Domain/book_sales.Domain.csproj",
+      "msbuildProject": "../book_sales.Domain/book_sales.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "book_sales.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vladi\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vladi\\OneDrive\\Документы\\C#\\book_sales\\book_sales.Domain\\book_sales.Domain.csproj": {
+              "projectPath": "C:\\Users\\vladi\\OneDrive\\Документы\\C#\\book_sales\\book_sales.Domain\\book_sales.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "book_sales.Domain/1.0.0": {
+        "runtime": {
+          "book_sales.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "book_sales.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
