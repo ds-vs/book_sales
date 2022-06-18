@@ -2,10 +2,16 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <LangVersion>9</LangVersion>
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\book_sales.DAL\book_sales.DAL.csproj" />
       <ProjectReference Include="..\book_sales.Domain\book_sales.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
     </ItemGroup>
 
 </Project>
