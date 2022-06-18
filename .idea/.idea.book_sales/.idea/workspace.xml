@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7443c352-2bd8-4c32-8be2-3e6a26f70056" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/book_sales.sln" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/book_sales/obj/Debug/net5.0/book_sales.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.book_sales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.book_sales/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655539124310</updated>
-      <workItem from="1655539149467" duration="696000" />
+      <workItem from="1655539149467" duration="1668000" />
     </task>
     <servers />
   </component>
@@ -80,6 +80,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
